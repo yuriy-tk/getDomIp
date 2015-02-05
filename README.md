@@ -1,1 +1,2 @@
-# Was wrote long ago like a testing app to get IP by it`s Domain using freegeoip.net service.
+#Get IP by It`s Domain
+Was wrote long ago like a testing app to get IP by it`s Domain using freegeoip.net service.
